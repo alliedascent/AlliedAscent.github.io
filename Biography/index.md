@@ -1,8 +1,8 @@
 ---
 layout: page
-title: How I do things
-author: pricelessbrewing
-excerpt: "My Methods."
+title: Who we are.
+author: AlliedAscent
+excerpt: "Who we are."
 ---
 
 <ul class="post-list">

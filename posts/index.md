@@ -1,6 +1,6 @@
 ---
 layout: post-index
 title: All Posts
-author: pricelessbrewing
-excerpt: "A List of Posts"
+author: AlliedAscent
+excerpt: "A List of all Posts"
 ---
