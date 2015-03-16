@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: pricelessbrewing
+title: Allied Ascent
 locale: en_US
 url: ""
 
@@ -25,13 +25,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Mark
-  avatar: biophoto.jpg
-  bio: "Homebrewer"
-  email: Pricelessbrewing@gmaii.com
-  disqus-shortname: pricelessbrewing
-  twitter: priceless_mark
-  github: pricelessbrewing
+  name: Allied Ascent Team
+  avatar: teambiophoto.jpg
+  bio: "Physics Students extraordinare"
+  email: AlliedAscent@gmail.com
+  disqus-shortname: AlliedAscent
+  #twitter: 
+  github: AlliedAscent
   #facebook: #username
   #google:
   #plus: #username
