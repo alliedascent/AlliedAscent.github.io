@@ -2,7 +2,7 @@
 layout: home
 excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
-author: pricelessbrewing
+author: AlliedAscent
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
@@ -10,7 +10,7 @@ image:
 ---
 
 
-Welcome to Pricelessbrewing. 
+Welcome to Allied Ascent. 
 
 
 <div class="tiles">
