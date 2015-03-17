@@ -11,13 +11,13 @@
   url: /posts/
 
 - title: Testing
-  url: /Recipes/
-  
-- title: Methods
   url: /Testing/
-    
+  
 - title: Launch Day
-  url: /ExBeeriments/
+  url: /Launch/
+    
+- title: Bios
+  url: /Bios/
 
 - title: About
   url: /About/
