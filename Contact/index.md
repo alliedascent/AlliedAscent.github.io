@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contacting PriclessBrewing
+title: Contacting the Allied Ascent Team
 tags: 
   - contact
-author: pricelessbrewing
+author: mark
 modified: {}
 comments: true
 image: 
@@ -13,14 +13,6 @@ image:
 published: true
 ---
 
-You can contact me anywhere Priceless Brewing can be found, but to be more specific.
+You can contact the Allied Ascent team via email at AlliedAscent@gmail.com and on Github where our username is AlliedAscent.
 
-HBT: PricelessBrewing
 
-Reddit: Pricelessbrew
-
-Github: Pricelssbrewing
-
-Twitter: Priceless_mark
-
-Here obviously
