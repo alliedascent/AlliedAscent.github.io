@@ -1,12 +1,45 @@
 # Authors
 
-pricelessbrewing:
+Mark:
   name: Mark
   web: PricelessBrewing.github.io
-  email: priclessbrewing@gmail.com
-  bio: "Homebrewer, eternal E'Lir, Physics and Math Student."
-  avatar: biophoto.jpg
+  email: mprice17@emich.edu
+  bio: "Physics Research, and Math double major, eternal e'lir"
+  avatar: biomark.jpg
   twitter: Priceless_mark
+  google:
+    plus: 
+
+
+Hans:
+  name: Hans
+  web: 
+  email: 
+  bio: "Stuff about Hans"
+  avatar: 
+  twitter: 
+  google:
+    plus: 
+
+
+Jeff:
+  name: Jeff
+  web: 
+  email:
+  bio: "Stuff about Jeff"
+  avatar: 
+  twitter: 
+  google:
+    plus: 
+
+
+Samir:
+  name: Samir
+  web: 
+  email: 
+  bio: "Stuff about samir"
+  avatar: 
+  twitter: 
   google:
     plus: 
 
