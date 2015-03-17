@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Sample Articles
+title: Arduino Sketches and Serial Monitor Output
 comments: true
 author: pricelessbrewing
 excerpt: "An archive of articles sorted by date."
 ---
 
 <ul class="post-list">
-{% for post in site.categories.calc %} 
+{% for post in site.categories.Arduino %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>

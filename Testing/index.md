@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Recipes
+title: Testing
 author: pricelessbrewing
-excerpt: "Would you like to kill some evil today?"
+excerpt: 
 ---
 
 <ul class="post-list">
-{% for post in site.categories.recipes %} 
+{% for post in site.categories.Testing %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
