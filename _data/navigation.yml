@@ -1,26 +1,26 @@
 # Site navigation links
 
 
-- title: Calculator Releases
-  url: /Calc/
+- title: All Posts
+  url: /Posts/
   
-- title: Calculators
-  url: /BiabCalc/
+- title: Arduino
+  url: /Arduino/
 
-- title: Brewing Posts
+- title: Circuits
   url: /posts/
 
-- title: Recipes
+- title: Testing
   url: /Recipes/
   
 - title: Methods
-  url: /Methods/
+  url: /Testing/
     
-- title: ExBeeriments
+- title: Launch Day
   url: /ExBeeriments/
 
 - title: About
-  url: /about/
+  url: /About/
   
 - title: Contact
   url: /Contact/
