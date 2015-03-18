@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Circuit diagrams, PCB layouts, etc!"
-author: pricelessbrewing
+author: Allied Ascent
 excerpt:
 ---
 
