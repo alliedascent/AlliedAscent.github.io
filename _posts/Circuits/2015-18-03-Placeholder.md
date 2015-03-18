@@ -4,7 +4,7 @@ title: "Complete Circuit on breadboard"
 modified:
 categories: circuits
 comments: true
-author: samir
+author: Samir
 excerpt:
 tags: [circuits]
 image:
