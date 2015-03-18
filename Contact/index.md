@@ -3,7 +3,7 @@ layout: page
 title: Contacting the Allied Ascent Team
 tags: 
   - contact
-author: mark
+author: Mark
 modified: {}
 comments: true
 image: 
