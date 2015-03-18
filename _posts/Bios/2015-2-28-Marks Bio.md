@@ -6,7 +6,7 @@ categories: bios
 author: Mark
 comments: true
 excerpt:
-tags: [bios]
+tags: []
 image:
   feature:
 date: 2015-02-28T22:06:12-05:00
