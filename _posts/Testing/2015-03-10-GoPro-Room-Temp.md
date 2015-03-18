@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gopro testing"
-author: mark
+author: Mark
 modified:
 categories: testing
 comments: true
