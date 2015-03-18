@@ -5,7 +5,7 @@ excerpt: A ton of text to test readability.
 author: Jeff
 categories: arduino
 tags: 
-  - [arduino]
+  - []
 comments: true
 published: true
 ---
