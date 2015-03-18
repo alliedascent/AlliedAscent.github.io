@@ -6,7 +6,7 @@ categories: circuits
 comments: true
 author: Samir
 excerpt:
-tags: [circuits]
+tags: []
 image:
   feature:
 date: 2015-18-03T22:05:22-05:00
