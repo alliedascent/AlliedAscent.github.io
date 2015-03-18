@@ -2,7 +2,7 @@
 layout: page
 title: Arduino Sketches and Serial Monitor Output
 comments: true
-author: mark
+author: Mark
 excerpt: "An archive of articles sorted by date."
 ---
 
