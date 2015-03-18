@@ -6,7 +6,7 @@ modified:
 categories: testing
 comments: true
 excerpt:
-tags: [testing]
+tags: []
 image:
   feature:
 date: 2015-03-10T22:05:22-05:00
